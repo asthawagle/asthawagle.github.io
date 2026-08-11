@@ -1,24 +1,28 @@
 ---
 title: "Publications"
-subtitle: "Journal articles, reports, and policy publications"
 ---
 
-## Peer-reviewed journal articles
+## Peer-reviewed articles
 
-**Brophy, A., Calverley, J., Wagle, A., Reinecke, J., &amp; Workman, M. (2026).** The strategic role of systemic transition intermediaries: A cross-sector perspective on voluntary standards for net zero. *Energy Research &amp; Social Science*, 135, 104683.
+**Brophy, A., Calverley, J., Wagle, A., Reinecke, J., & Workman, M. (2026).**  The strategic role of systemic transition intermediaries: A cross-sector perspective on voluntary standards for net zero.  *Energy Research & Social Science*, **135**, 104683. [DOI](https://doi.org/10.1016/j.erss.2026.104683) · [Oxford Research Archive](https://ora.ox.ac.uk/objects/uuid:9b25e575-5a44-48ea-9a79-b4885ba7b90c)
 
-> **Topics:** net zero · voluntary standards · systemic transition intermediaries
 
-**Workman, M., Brophy, A., Wagle, A., Cuthbertson, M., McCormack, L., Taricco, E., et al. (2026).** Investing in Carbon Dioxide Removals: A new analytical and policy paradigm. *Energy Research &amp; Social Science*, 135, 104669.
+**Workman, M., Brophy, A., Wagle, A., Cuthbertson, M., McCormack, L., Taricco, E., Shaw, Q., & Calverley, J. (2026).**  Investing in Carbon Dioxide Removals: A new analytical and policy paradigm.  *Energy Research & Social Science*, **135**, 104669. [DOI](https://doi.org/10.1016/j.erss.2026.104669) · [Oxford Research Archive](https://ora.ox.ac.uk/objects/uuid:c643f715-533f-4c33-a5c8-44be51bf893c)
 
-> **Topics:** carbon dioxide removal · investment · climate policy
 
 ## Reports and policy publications
 
-**Lomax, C., Smith, S. M., Bellamy, R., &amp; Wagle, A. (2025).** *The UK State of Carbon Dioxide Removal.* CO2RE, Smith School of Enterprise and the Environment, University of Oxford.
+**Lomax, C., Smith, S. M., Bellamy, R., & Wagle, A. (2025).**  *The UK State of Carbon Dioxide Removal.* CO2RE, Smith School of Enterprise and the Environment, University of Oxford.
+[DOI](https://doi.org/10.5287/ora-prp8a6y1j) ·
+[Oxford Research Archive](https://ora.ox.ac.uk/objects/uuid:a44f3a1f-7954-40f0-bde5-e9067ad0e2a5) ·
+[Report PDF](https://co2re.org/wp-content/uploads/2025/07/UK-State-of-CDR-Report.pdf)
 
-**Westbury, P., Arlinghaus, J., Bateman, I. J., Beerling, D., Bellamy, R., Brophy, A., et al. (2025).** *UKRI Strategic Priorities Fund Greenhouse Gas Removal Demonstrators (GGR-D) Programme: An Overview of Key Research Insights and Cross-cutting Findings.* UKRI.
+**Bistričić, P., Brophy, A., Taricco, E., Wagle, A., & Workman, M. (2025).**  
+*Unlocking Private Investment for Greenhouse Gas Removal: Public-private collaboration and a technology-specific policy approach.*  CO2RE. [CO2RE publication](https://co2re.org/publication/unlocking-private-investment-for-greenhouse-gas-removal-public-private-collaboration-and-a-technology-specific-policy-approach/)
 
-## Other outputs
+**Westbury, P., Arlinghaus, J., Bateman, I. J., Beerling, D., Bellamy, R., Brophy, A., Butnar, I., Donnison, I., Evans, C., Gilbert, A., House, J., Singh Ghaleigh, N., Smith, S. M., Snape, C., Thornton, J., Van Looy, M., & Wagle, A. (2025).**  *The UKRI Strategic Priorities Fund Greenhouse Gas Removal Demonstrators (GGR-D) Programme: An overview of key research insights and cross-cutting lessons.* Grantham Institute for Climate Change and the Environment / CO2RE. [DOI](https://doi.org/10.25560/125726) · [UCL Research Repository](https://discovery.ucl.ac.uk/id/eprint/10218745/) ·
+[Report PDF](https://www.ucl.ac.uk/bartlett/sites/bartlett/files/2026-01/UKRI-SPF-GGR-D-programme-report_final2.pdf)
 
-This page can be expanded with working papers, preprints, conference papers, datasets, and code as they become publicly available.
+---
+
+For a complete and up-to-date record of my research outputs, see my [Google Scholar profile](https://scholar.google.com/citations?user=hYuNKE8AAAAJ).

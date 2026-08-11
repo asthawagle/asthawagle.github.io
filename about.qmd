@@ -1,88 +1,17 @@
 ---
 title: "About"
-subtitle: "Academic background and research experience"
 ---
 
-## Profile
+::: {.about-photo}
+![](images/asthawagle.jpg){.about-profile-photo alt="Astha Wagle"}
+:::
 
-I am an **Environment and Climate Economist** with training in economics and environmental economics. My research interests include applied microeconomics, causal inference, environmental economics, climate policy, green finance, and evidence-based environmental governance.
+I am an environment and climate economist, currently pursuing a DPhil in Geography and Environment at the [University of Oxford](https://www.ox.ac.uk/). Growing up in Nepal, I was conscious of a fundamental development challenge: improving living standards requires greater economic opportunities, employment, and income generation, while climate change is already creating new pressures on development and resilience. My research is motivated by how developing and emerging economies can navigate these objectives together. I was drawn to economics because of its potential as a policy tool — to understand these trade-offs and inform decisions capable of making a difference at scale.
 
-## Education
+My path has taken me from studying economics at [Ashoka University](https://www.ashoka.edu.in/), to applied economic and policy research in Nepal, an MSc in Environmental Economics and Climate Change at the [London School of Economics](https://www.lse.ac.uk/geography-and-environment/), and research on climate policy at Oxford's [Smith School of Enterprise and the Environment](https://www.smithschool.ox.ac.uk/). At the [School of Geography and the Environment](https://www.geog.ox.ac.uk/), my doctoral research examines climate-compatible growth in lower- and middle-income countries, with Nepal as my primary case study.
 
-### DPhil in Geography and Environment — 2025
-**University of Oxford, Smith School of Environment and Enterprise**, Oxford, UK  
-Research: *Green Growth Strategies Towards the Net-zero Transition: Low- and Middle-Income Countries Edition*
+I hope to work at the interface of **research and policy**: producing rigorous research while also translating and communicating evidence in ways that can inform public policy.
 
-### MSc Environmental Economics and Climate Change — 2023
-**London School of Economics and Political Science**, London, UK — Distinction  
-Key modules: Environment &amp; Resource Economics, Applied Quantitative Methods, Economic Appraisal and Valuation  
-Thesis: *Rainfall Shocks in Nepal and their Influence on Remittance Inflows: A Household-level Exploration*
+I am a co-convener of the Early Career Research Group at the [School of Geography and the Environment, University of Oxford](https://www.geog.ox.ac.uk/).
 
-### Postgraduate Diploma in Advanced Studies and Research (DipASR): Economics — 2021
-**Ashoka University**, Haryana, India — CGPA: 3.57/4  
-Thesis: *An Enquiry of the Export Trajectory of Nepal and the Role of the Readymade Garments*
-
-### BA (Honours) Economics — 2020
-**Ashoka University**, Haryana, India — CGPA: 3.53/4
-
-## Research experience
-
-### Research Assistant to Dr Aoife Brophy and Dr Mark Workman
-**Smith School of Environment and Enterprise, University of Oxford** · Nov 2023 – Oct 2025
-
-- Conducted scoping and targeted literature reviews across greenhouse gas removal technologies, synthesising evidence from more than 100 academic papers and identifying research gaps to support publications and research grant proposals.
-- Modelled business cases and uncertainty across greenhouse gas removal technologies under alternative policy scenarios using R.
-- Worked collaboratively with economists, climate scientists, engineers, and policy researchers on interdisciplinary environmental research.
-
-### Summer Student Researcher to Dr Mirabel Muules
-**Imperial College Business School** · Jun 2023 – Jul 2023
-
-Contributed to an ongoing randomised controlled trial examining the adoption and use of smart-plug technologies and supported research design, implementation, and data collection.
-
-### Research Associate
-**Research Cell, Confederation of Nepalese Industries** · May 2021 – May 2022
-
-Designed and analysed quarterly industrial surveys covering more than 70 medium and large industries across Nepal and produced evidence-based reports to support industrial policy and government decision-making.
-
-### Consultant, Study team
-**National Reconstruction Authority, Nepal** · Sep 2021 – Nov 2021
-
-Evaluated the socioeconomic impacts of post-earthquake reconstruction using applied regression-based analysis and contributed to the final evaluation report for government stakeholders.
-
-### Junior Consultant
-**International Labour Organization, Nepal** · Jun 2021 – Jul 2021
-
-Analysed municipal budgets and employment programmes using regression-based methods and contributed to policy reports evaluating employment outcomes and evidence-based planning across local governments.
-
-### Research Intern to Prof. Ashwini Deshpande
-**Centre for Economic Data &amp; Analysis, Ashoka University** · May 2020 – Aug 2020
-
-Worked with large-scale Indian census datasets, including data reshaping, cleaning, processing, and variable creation in R for the CEDA data portal.
-
-### Research Assistant to Dr Biswo Poudel
-**Nepal** · Jun 2019 – Aug 2019
-
-Conducted policy analysis of municipal budgets and public expenditure, and examined federal budget allocations from 2003–2018 to understand employment-generation patterns, policies, and projects.
-
-## Leadership &amp; service
-
-### Co-convener — SoGE Early Career Research Group
-**University of Oxford** · Dec 2023 – present
-
-Provided strategic input into Early Career Research programme design and delivery and supported programme dissemination in the Smith School.
-
-### Mentor — Women LEAD Nepal
-**Oct 2020 – present**
-
-Provide bi-weekly coaching and mentoring to two mentees.
-
-### Trustee — Raleigh International Trust UK
-**Jun 2021 – Aug 2022**
-
-Participated in board-level work on finance, strategy, safety, and safeguarding, and co-led the Youth Advisory Group in developing a new three-year strategy.
-
-## Methods &amp; skills
-
-**Statistical analysis:** R, Stata  
-**Additional quantitative tools:** Python, GIS  
-**Public speaking:** moderation of 20+ panel discussions and interviews
+Outside academia, I enjoy writing and cooking. Alongside my DPhil, I am writing a memoir about the lives of my grandmothers. I hope to preserve their stories and perspectives, and through them record experiences of women's lives in Nepal that might otherwise go unrecorded.

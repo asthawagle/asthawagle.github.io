@@ -1,203 +1,404 @@
-/*-- scss:rules --*/
-/* Academic personal site: restrained, readable, research-first. */
+/* =========================================================
+   Astha Wagle — Academic Website
+   Minimal, research-focused styling
+   ========================================================= */
 
 :root {
-  --ink: #1f2937;
-  --muted: #6b7280;
-  --line: #e5e7eb;
-  --paper: #ffffff;
-  --wash: #f7f8fa;
-  --accent: #24456a;
+  --text: #222222;
+  --muted: #666666;
+  --border: #e6e6e6;
+  --link: #315b7d;
+  --background: #ffffff;
 }
 
+
+/* =========================================================
+   GENERAL
+   ========================================================= */
+
 body {
-  color: var(--ink);
-  font-family: Inter, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
-  line-height: 1.72;
+  color: var(--text);
+  background: var(--background);
+  font-size: 1.02rem;
+  line-height: 1.7;
+}
+
+main {
+  max-width: 850px;
+}
+
+p {
+  margin-bottom: 1.15rem;
+}
+
+
+/* =========================================================
+   LINKS
+   ========================================================= */
+
+a {
+  color: var(--link);
+  text-decoration: none;
+}
+
+a:hover {
+  color: var(--link);
+  text-decoration: underline;
+}
+
+
+/* =========================================================
+   NAVIGATION
+   ========================================================= */
+
+.navbar {
+  background: #ffffff;
+  border-bottom: 1px solid var(--border);
+  padding-top: 0.8rem;
+  padding-bottom: 0.8rem;
 }
 
 .navbar-brand {
-  font-weight: 700;
-  letter-spacing: -0.02em;
+  font-weight: 600;
+  letter-spacing: -0.01em;
 }
 
 .navbar-nav .nav-link {
   font-size: 0.95rem;
+  font-weight: 400;
 }
 
-h1, h2, h3 {
-  letter-spacing: -0.02em;
+.navbar-nav .nav-link:hover {
+  text-decoration: none;
+}
+
+
+/* =========================================================
+   TYPOGRAPHY
+   ========================================================= */
+
+h1,
+h2,
+h3,
+h4 {
+  color: var(--text);
 }
 
 h1 {
-  font-weight: 700;
+  font-size: 2.5rem;
+  font-weight: 500;
+  letter-spacing: -0.035em;
 }
 
 h2 {
-  margin-top: 2.6rem;
-  margin-bottom: 1rem;
+  margin-top: 3rem;
+  margin-bottom: 1.25rem;
+  font-size: 1.55rem;
+  font-weight: 500;
+  border-bottom: none;
 }
 
 h3 {
-  margin-top: 1.9rem;
+  margin-top: 2.25rem;
+  margin-bottom: 0.75rem;
+  font-size: 1.18rem;
+  font-weight: 500;
 }
 
-a {
-  color: var(--accent);
+h4 {
+  font-size: 1.05rem;
+  font-weight: 500;
 }
 
-.hero-wrap {
-  display: grid;
-  grid-template-columns: minmax(0, 1fr) 220px;
-  gap: 3rem;
-  align-items: center;
-  padding: 4.2rem 0 3.8rem;
-  border-bottom: 1px solid var(--line);
+
+/* =========================================================
+   HOMEPAGE
+   ========================================================= */
+
+.home-simple {
+  max-width: 720px;
+  margin: 0 auto;
+  padding-top: 6rem;
+  padding-bottom: 7rem;
 }
 
-.eyebrow,
-.feature-kicker {
-  text-transform: uppercase;
-  letter-spacing: 0.12em;
-  font-size: 0.78rem;
-  font-weight: 700;
-  color: var(--accent);
+/* Name and academic title */
+
+.home-heading {
+  text-align: center;
+  margin-bottom: 3rem;
 }
 
-.hero-copy h1 {
-  font-size: clamp(3.1rem, 8vw, 5.6rem);
-  margin: 0.3rem 0 0.8rem;
+.home-name {
+  font-size: 3.2rem;
+  font-weight: 500;
+  line-height: 1.15;
+  letter-spacing: -0.045em;
+  color: var(--text);
 }
 
-.hero-lede {
-  max-width: 760px;
-  font-size: 1.3rem;
-  color: #4b5563;
-  margin-bottom: 1rem;
-}
-
-.hero-meta {
-  display: flex;
-  gap: 1.3rem;
-  flex-wrap: wrap;
+.home-role {
+  margin-top: 0.6rem;
+  font-size: 1.15rem;
+  font-weight: 400;
   color: var(--muted);
+}
+
+/* Main biography */
+
+.home-bio {
+  text-align: left;
+}
+
+.home-bio p {
+  max-width: 700px;
+  margin-bottom: 1.25rem;
+  font-size: 1.08rem;
+  line-height: 1.75;
+}
+
+/* Academic profile links */
+
+.profile-links {
+  margin-top: 2.5rem;
+  text-align: center;
   font-size: 0.95rem;
 }
 
-.hero-links {
-  display: flex;
-  gap: 0.75rem;
-  flex-wrap: wrap;
-  margin-top: 1.6rem;
+.profile-links p {
+  margin-bottom: 0;
 }
 
-.hero-mark {
-  width: 220px;
-  height: 220px;
+/* =========================================================
+   PAGE TITLES
+   ========================================================= */
+
+#title-block-header {
+  margin-bottom: 2.5rem;
+}
+
+.quarto-title h1 {
+  font-size: 2.4rem;
+  font-weight: 500;
+  letter-spacing: -0.035em;
+}
+
+.quarto-title-block .quarto-title-banner {
+  background: transparent;
+}
+
+
+/* =========================================================
+   ABOUT PAGE
+   ========================================================= */
+
+/* Centred profile photograph */
+
+.about-photo {
+  display: flex;
+  justify-content: center;
+  margin: 0.5rem auto 2.5rem auto;
+}
+
+.about-profile-photo {
+  width: 135px;
+  height: 135px;
+  object-fit: cover;
+  object-position: center;
   border-radius: 50%;
-  border: 1px solid #cfd5dc;
-  background: var(--wash);
-  display: grid;
-  place-items: center;
-  font-size: 3.4rem;
-  font-weight: 700;
-  letter-spacing: -0.06em;
-  color: var(--accent);
+  display: block;
 }
 
-.tag-row {
-  display: flex;
-  flex-wrap: wrap;
-  gap: 0.6rem;
-  margin: 1.3rem 0 2rem;
+
+/* About-page text */
+
+.about-photo + p {
+  margin-top: 0;
 }
 
-.tag {
-  padding: 0.45rem 0.75rem;
-  border: 1px solid var(--line);
-  border-radius: 999px;
-  background: var(--paper);
-  color: #374151;
-  font-size: 0.9rem;
+/* Education entries */
+
+#education p {
+  margin-bottom: 1.6rem;
 }
 
-.feature-grid {
-  display: grid;
-  grid-template-columns: repeat(2, minmax(0, 1fr));
-  gap: 1rem;
-  margin: 1.5rem 0 2.2rem;
+#education strong {
+  font-weight: 500;
 }
 
-.feature-card {
-  padding: 1.5rem;
-  border: 1px solid var(--line);
-  border-radius: 14px;
-  background: var(--paper);
+
+/* Academic service */
+
+#academic-service {
+  margin-top: 3.5rem;
 }
 
-.feature-card h3 {
-  margin: 0.45rem 0 0.6rem;
+
+/* CV link */
+
+.cv-link {
+  display: inline-block;
+  margin-top: 1.25rem;
 }
 
-.feature-card p {
-  margin-bottom: 0.8rem;
-  color: #4b5563;
+
+/* Mobile */
+
+@media (max-width: 768px) {
+
+  .about-photo {
+    margin-top: 0;
+    margin-bottom: 2rem;
+  }
+
+  .about-profile-photo {
+    width: 120px;
+    height: 120px;
+  }
 }
 
-.pub-list.compact {
-  max-width: 940px;
+/* =========================================================
+   RESEARCH PAGE
+   ========================================================= */
+
+#research h2 {
+  margin-top: 3.25rem;
 }
 
-.pub-list.compact p {
-  margin-bottom: 1.3rem;
+#research h3 {
+  margin-top: 2rem;
 }
 
-.contact-note {
-  padding: 1rem 1.1rem;
-  border-left: 3px solid var(--accent);
-  background: var(--wash);
-  margin-top: 1.2rem;
+
+/* =========================================================
+   PUBLICATIONS
+   ========================================================= */
+
+#publications h2 {
+  margin-top: 3rem;
 }
 
-.cv-actions {
-  margin: 1rem 0 1.6rem;
+#publications p {
+  margin-bottom: 1.6rem;
 }
 
-.cv-frame {
-  border: 1px solid var(--line);
-  border-radius: 10px;
-  overflow: hidden;
-  background: var(--wash);
+
+/* =========================================================
+   TEACHING
+   ========================================================= */
+
+#teaching h3 {
+  margin-bottom: 0.35rem;
 }
 
-.cv-frame iframe {
+
+/* =========================================================
+   CV PAGE
+   ========================================================= */
+
+.cv-link {
+  display: inline-block;
+  margin-top: 1rem;
+}
+
+iframe {
   width: 100%;
-  height: 1100px;
+  border: 1px solid var(--border);
+}
+
+
+/* =========================================================
+   BUTTONS
+   ========================================================= */
+
+.btn {
+  border-radius: 2px;
+  font-weight: 400;
+}
+
+.btn-dark {
+  background: var(--text);
+  border-color: var(--text);
+}
+
+.btn-dark:hover {
+  background: #000000;
+  border-color: #000000;
+  text-decoration: none;
+}
+
+
+/* =========================================================
+   HORIZONTAL RULES
+   ========================================================= */
+
+hr {
   border: 0;
+  border-top: 1px solid var(--border);
+  margin-top: 3rem;
+  margin-bottom: 3rem;
 }
 
-.callout {
-  margin-top: 1.8rem;
+
+/* =========================================================
+   FOOTER
+   ========================================================= */
+
+.nav-footer {
+  border-top: 1px solid var(--border);
+  margin-top: 5rem;
+  padding-top: 1.5rem;
+  padding-bottom: 1.5rem;
+  font-size: 0.85rem;
+  color: var(--muted);
 }
 
-@media (max-width: 800px) {
-  .hero-wrap {
-    grid-template-columns: 1fr;
-    gap: 2rem;
-    padding-top: 2.6rem;
+
+/* =========================================================
+   MOBILE
+   ========================================================= */
+
+@media (max-width: 768px) {
+
+  body {
+    font-size: 1rem;
   }
 
-  .hero-mark {
-    width: 140px;
-    height: 140px;
-    font-size: 2.3rem;
+  .home-simple {
+    padding-top: 3rem;
+    padding-bottom: 4rem;
   }
 
-  .feature-grid {
-    grid-template-columns: 1fr;
+  .home-heading {
+    margin-bottom: 2rem;
   }
 
-  .cv-frame iframe {
-    height: 850px;
+  .home-heading h1 {
+    font-size: 2.5rem;
+  }
+
+  .home-heading h2 {
+    font-size: 1.08rem;
+  }
+
+  .home-simple p {
+    font-size: 1rem;
+  }
+
+  .about-profile-photo {
+    width: 130px;
+    height: 130px;
+  }
+
+  .quarto-title h1 {
+    font-size: 2rem;
+  }
+
+  h2 {
+    font-size: 1.4rem;
+  }
+
+  iframe {
+    height: 650px;
   }
 }

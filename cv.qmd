@@ -1,20 +1,22 @@
 ---
 title: "Curriculum Vitae"
-subtitle: "Astha Wagle"
 ---
 
-My full academic CV is available below.
+<iframe
+  src="files/Astha-Wagle-CV.pdf"
+  width="100%"
+  height="900px"
+  style="border: 1px solid #e6e6e6; margin-bottom: 1.5rem;">
+</iframe>
 
-<div class="cv-actions">
-  <a class="btn btn-dark" href="files/Astha-Wagle-CV.pdf">Download CV (PDF)</a>
-</div>
+[Download CV as PDF](files/Astha-Wagle-CV.pdf)
 
-<div class="cv-frame">
-  <iframe src="files/Astha-Wagle-CV.pdf" title="Astha Wagle CV"></iframe>
-</div>
+## Contact
 
-::: {.callout-tip appearance="minimal"}
-### Keep this page current
+**Astha Wagle**  
+Environment & Climate Economist  
+Oxford, UK
 
-Whenever you update your CV, replace `files/Astha-Wagle-CV.pdf` in the website folder. The embedded version and download button will then point to the new PDF.
-:::
+[astha.wagle@ouce.ox.ac.uk](mailto:astha.wagle@ouce.ox.ac.uk)
+
+[Google Scholar](https://scholar.google.com/citations?user=hYuNKE8AAAAJ) · [ORCID](https://orcid.org/0009-0004-1066-4174) · [GitHub](https://github.com/asthawagle)

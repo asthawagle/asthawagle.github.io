@@ -2,122 +2,23 @@
 title: ""
 ---
 
-::: {.hero-wrap}
-::: {.hero-copy}
+::: {.home-simple}
 
-::: {.eyebrow}
-Environment & Climate Economist
+::: {.home-heading}
+<div class="home-name">Astha Wagle</div>
+<div class="home-role">Environment & Climate Economist</div>
 :::
 
-# Astha Wagle
+::: {.home-bio}
 
-::: {.hero-lede}
-Research on environmental economics, climate policy, and the economic and policy challenges of the net-zero transition.
-:::
+I am an environment and climate economist working at the intersection of **environmental economics, climate policy, and applied microeconomics**. I am currently a DPhil researcher in Geography and Environment at the [School of Geography and the Environment, University of Oxford](https://www.geog.ox.ac.uk/). My doctoral research focuses on enabling climate-compatible growth in Nepal.
 
-::: {.hero-meta}
-
-DPhil in Geography & Environment, 2025  
-University of Oxford
+My broader research interests include green growth, climate policy, environmental governance, and the economic and policy challenges of the net-zero transition, particularly in developing and emerging economies.
 
 :::
 
-::: {.hero-links}
-[Research](research.html){.btn .btn-dark}
-[Download CV](files/Astha-Wagle-CV.pdf){.btn .btn-outline-dark}
+::: {.profile-links}
+[Email](mailto:astha.wagle@ouce.ox.ac.uk) · [Google Scholar](https://scholar.google.com/citations?user=hYuNKE8AAAAJ) · [ORCID](https://orcid.org/0009-0004-1066-4174) · [GitHub](https://github.com/asthawagle)
 :::
 
 :::
-
-::: {.hero-mark}
-AW
-:::
-:::
-
-## Research interests
-
-::: {.tag-row}
-
-::: {.tag}
-Environmental economics
-:::
-
-::: {.tag}
-Applied microeconomics
-:::
-
-::: {.tag}
-Causal inference
-:::
-
-::: {.tag}
-Climate policy
-:::
-
-::: {.tag}
-Green finance
-:::
-
-::: {.tag}
-Environmental governance
-:::
-
-:::
-
-## Research focus
-
-### Green growth strategies towards the net-zero transition
-
-My doctoral research examines **green growth strategies towards the net-zero transition in low- and middle-income countries**, with a focus on the economic and policy dimensions of climate transition.
-
-::: {.feature-grid}
-
-::: {.feature-card}
-
-::: {.feature-kicker}
-Climate policy
-:::
-
-### Carbon dioxide removal
-
-Research on greenhouse-gas-removal technologies, investment pathways, uncertainty, and the policy conditions shaping deployment.
-
-[Explore the work →](research.html#carbon-dioxide-removal)
-
-:::
-
-::: {.feature-card}
-
-::: {.feature-kicker}
-Development & climate
-:::
-
-### Applied microeconomics
-
-Empirical research connecting climate and environmental questions with household, industrial, labour, and public-policy outcomes.
-
-[Explore the work →](research.html#applied-microeconomics)
-
-:::
-
-:::
-
-## Selected publications
-
-::: {.pub-list .compact}
-
-**Brophy, A., Calverley, J., Wagle, A., Reinecke, J., & Workman, M. (2026).**  
-The strategic role of systemic transition intermediaries: A cross-sector perspective on voluntary standards for net zero. *Energy Research & Social Science*, 135, 104683.
-
-**Workman, M., Brophy, A., Wagle, A., Cuthbertson, M., McCormack, L., Taricco, E., et al. (2026).**  
-Investing in Carbon Dioxide Removals: A new analytical and policy paradigm. *Energy Research & Social Science*, 135, 104669.
-
-:::
-
-[See all publications →](publications.html)
-
-## Contact
-
-For research enquiries, collaborations, seminar invitations, or other academic correspondence, please use my University of Oxford email address.
-
-[Download CV](files/Astha-Wagle-CV.pdf)
