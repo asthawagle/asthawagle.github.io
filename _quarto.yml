@@ -1,0 +1,48 @@
+project:
+  type: website
+  output-dir: _site
+
+website:
+  title: "Astha Wagle"
+  description: "Academic website of Astha Wagle, Environment and Climate Economist."
+  site-url: "https://your-domain.example"
+  navbar:
+    pinned: true
+    background: "#ffffff"
+    foreground: "#1f2937"
+    left:
+      - text: "Home"
+        href: index.qmd
+      - text: "Research"
+        href: research.qmd
+      - text: "Publications"
+        href: publications.qmd
+      - text: "About"
+        href: about.qmd
+      - text: "CV"
+        href: cv.qmd
+    right:
+      - icon: envelope
+        href: "#contact"
+        aria-label: "Contact"
+  page-footer:
+    left: "© 2026 Astha Wagle"
+    right:
+      - text: "Built with Quarto"
+        href: https://quarto.org/
+
+format:
+  html:
+    theme:
+      - cosmo
+      - css/styles.css
+    toc: false
+    smooth-scroll: true
+    link-external-newwindow: true
+    title-block-banner: false
+    include-in-header:
+      text: |
+        <meta name="author" content="Astha Wagle">
+        <meta name="google-site-verification" content="">
+
+editor: source

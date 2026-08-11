@@ -1,0 +1,35 @@
+---
+title: "Research"
+subtitle: "Environmental economics, climate policy, and applied microeconomics"
+---
+
+My research sits at the intersection of **environmental economics, climate policy, and applied microeconomics**. I am particularly interested in empirical and policy-relevant questions around the transition to net zero, including the role of institutions, technologies, investment, and evidence in shaping climate and environmental outcomes.
+
+## Green growth and the net-zero transition
+
+My DPhil research is titled **Green Growth Strategies Towards the Net-zero Transition: Low- and Middle-Income Countries Edition**. The project focuses on the economic and policy challenges involved in aligning growth and development with decarbonisation in low- and middle-income countries.
+
+## Carbon dioxide removal {#carbon-dioxide-removal}
+
+My Oxford research has included work on greenhouse gas removal technologies, including evidence synthesis, uncertainty, investment pathways, and policy scenarios. This work involved reviewing evidence across more than 100 academic papers, identifying research gaps, and modelling business cases under alternative policy scenarios in R.
+
+This strand of work has contributed to research publications and policy outputs on carbon dioxide removal and the wider net-zero transition.
+
+## Applied microeconomics {#applied-microeconomics}
+
+My wider research experience uses quantitative methods to study environmental, economic, and policy questions. Earlier work has included:
+
+- household-level research on the relationship between rainfall shocks and remittance inflows in Nepal;
+- empirical research on industrial activity using quarterly surveys across medium and large firms in Nepal;
+- regression-based evaluation of post-earthquake reconstruction;
+- analysis of municipal budgets and employment programmes;
+- experimental policy research on the adoption and use of smart-plug technologies; and
+- large-scale census-data preparation and analysis using R.
+
+## Research approach
+
+I work across economics and interdisciplinary environmental research, combining quantitative methods with policy-focused questions. My research experience includes collaboration with economists, climate scientists, engineers, and policy researchers.
+
+## Selected research outputs
+
+See the [publications page](publications.qmd) for journal articles, reports, and policy publications.

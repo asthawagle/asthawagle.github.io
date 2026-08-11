@@ -1,0 +1,20 @@
+---
+title: "Curriculum Vitae"
+subtitle: "Astha Wagle"
+---
+
+My full academic CV is available below.
+
+<div class="cv-actions">
+  <a class="btn btn-dark" href="files/Astha-Wagle-CV.pdf">Download CV (PDF)</a>
+</div>
+
+<div class="cv-frame">
+  <iframe src="files/Astha-Wagle-CV.pdf" title="Astha Wagle CV"></iframe>
+</div>
+
+::: {.callout-tip appearance="minimal"}
+### Keep this page current
+
+Whenever you update your CV, replace `files/Astha-Wagle-CV.pdf` in the website folder. The embedded version and download button will then point to the new PDF.
+:::
