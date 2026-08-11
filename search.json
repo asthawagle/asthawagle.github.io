@@ -1,0 +1,156 @@
+[
+  {
+    "objectID": "index.html",
+    "href": "index.html",
+    "title": "Astha Wagle",
+    "section": "",
+    "text": "&lt;div class=\"eyebrow\"&gt;Environment &amp; Climate Economist&lt;/div&gt;\n&lt;h1&gt;Astha Wagle&lt;/h1&gt;\n&lt;p class=\"hero-lede\"&gt;Research on environmental economics, climate policy, and the economic and policy challenges of the net-zero transition.&lt;/p&gt;\n&lt;div class=\"hero-meta\"&gt;\n  &lt;span&gt;DPhil in Geography &amp; Environment, 2025&lt;/span&gt;\n  &lt;span&gt;University of Oxford&lt;/span&gt;\n&lt;/div&gt;\n&lt;div class=\"hero-links\"&gt;\n  &lt;a class=\"btn btn-dark\" href=\"research.qmd\"&gt;Research&lt;/a&gt;\n  &lt;a class=\"btn btn-outline-dark\" href=\"files/Astha-Wagle-CV.pdf\"&gt;Download CV&lt;/a&gt;\n&lt;/div&gt;\n\n\nAW"
+  },
+  {
+    "objectID": "index.html#research-interests",
+    "href": "index.html#research-interests",
+    "title": "Astha Wagle",
+    "section": "Research interests",
+    "text": "Research interests\n\nEnvironmental economics Applied microeconomics Causal inference Climate policy Green finance Environmental governance"
+  },
+  {
+    "objectID": "index.html#research-focus",
+    "href": "index.html#research-focus",
+    "title": "Astha Wagle",
+    "section": "Research focus",
+    "text": "Research focus\n\nGreen growth strategies towards the net-zero transition\nMy doctoral research examines green growth strategies towards the net-zero transition in low- and middle-income countries, with a focus on the economic and policy dimensions of climate transition.\n\n\n&lt;div class=\"feature-kicker\"&gt;Climate policy&lt;/div&gt;\n&lt;h3&gt;Carbon dioxide removal&lt;/h3&gt;\n&lt;p&gt;Research on greenhouse-gas-removal technologies, investment pathways, uncertainty, and the policy conditions shaping deployment.&lt;/p&gt;\n&lt;a href=\"research.qmd#carbon-dioxide-removal\"&gt;Explore the work →&lt;/a&gt;\n\n\n&lt;div class=\"feature-kicker\"&gt;Development &amp; climate&lt;/div&gt;\n&lt;h3&gt;Applied microeconomics&lt;/h3&gt;\n&lt;p&gt;Empirical research connecting climate and environmental questions with household, industrial, labour, and public-policy outcomes.&lt;/p&gt;\n&lt;a href=\"research.qmd#applied-microeconomics\"&gt;Explore the work →&lt;/a&gt;"
+  },
+  {
+    "objectID": "index.html#selected-publications",
+    "href": "index.html#selected-publications",
+    "title": "Astha Wagle",
+    "section": "Selected publications",
+    "text": "Selected publications\n\nBrophy, A., Calverley, J., Wagle, A., Reinecke, J., & Workman, M. (2026). The strategic role of systemic transition intermediaries: A cross-sector perspective on voluntary standards for net zero. Energy Research & Social Science, 135, 104683.\nWorkman, M., Brophy, A., Wagle, A., Cuthbertson, M., McCormack, L., Taricco, E., et al. (2026). Investing in Carbon Dioxide Removals: A new analytical and policy paradigm. Energy Research & Social Science, 135, 104669.\n\nSee all publications →"
+  },
+  {
+    "objectID": "index.html#contact",
+    "href": "index.html#contact",
+    "title": "Astha Wagle",
+    "section": "Contact",
+    "text": "Contact\nFor research enquiries, collaborations, seminar invitations, or other academic correspondence, please use your university email address.\n\nBefore publishing: replace this paragraph with your preferred public contact details and add links to Google Scholar, ORCID, GitHub, and LinkedIn where relevant."
+  },
+  {
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Curriculum Vitae",
+    "section": "",
+    "text": "My full academic CV is available below.\n\nDownload CV (PDF)\n\n\n\n\n\n\n\n\n\n\nTipKeep this page current\n\n\n\nWhenever you update your CV, replace files/Astha-Wagle-CV.pdf in the website folder. The embedded version and download button will then point to the new PDF."
+  },
+  {
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "I am an Environment and Climate Economist with training in economics and environmental economics. My research interests include applied microeconomics, causal inference, environmental economics, climate policy, green finance, and evidence-based environmental governance."
+  },
+  {
+    "objectID": "about.html#profile",
+    "href": "about.html#profile",
+    "title": "About",
+    "section": "",
+    "text": "I am an Environment and Climate Economist with training in economics and environmental economics. My research interests include applied microeconomics, causal inference, environmental economics, climate policy, green finance, and evidence-based environmental governance."
+  },
+  {
+    "objectID": "about.html#education",
+    "href": "about.html#education",
+    "title": "About",
+    "section": "Education",
+    "text": "Education\n\nDPhil in Geography and Environment — 2025\nUniversity of Oxford, Smith School of Environment and Enterprise, Oxford, UK\nResearch: Green Growth Strategies Towards the Net-zero Transition: Low- and Middle-Income Countries Edition\n\n\nMSc Environmental Economics and Climate Change — 2023\nLondon School of Economics and Political Science, London, UK — Distinction\nKey modules: Environment & Resource Economics, Applied Quantitative Methods, Economic Appraisal and Valuation\nThesis: Rainfall Shocks in Nepal and their Influence on Remittance Inflows: A Household-level Exploration\n\n\nPostgraduate Diploma in Advanced Studies and Research (DipASR): Economics — 2021\nAshoka University, Haryana, India — CGPA: 3.57/4\nThesis: An Enquiry of the Export Trajectory of Nepal and the Role of the Readymade Garments\n\n\nBA (Honours) Economics — 2020\nAshoka University, Haryana, India — CGPA: 3.53/4"
+  },
+  {
+    "objectID": "about.html#research-experience",
+    "href": "about.html#research-experience",
+    "title": "About",
+    "section": "Research experience",
+    "text": "Research experience\n\nResearch Assistant to Dr Aoife Brophy and Dr Mark Workman\nSmith School of Environment and Enterprise, University of Oxford · Nov 2023 – Oct 2025\n\nConducted scoping and targeted literature reviews across greenhouse gas removal technologies, synthesising evidence from more than 100 academic papers and identifying research gaps to support publications and research grant proposals.\nModelled business cases and uncertainty across greenhouse gas removal technologies under alternative policy scenarios using R.\nWorked collaboratively with economists, climate scientists, engineers, and policy researchers on interdisciplinary environmental research.\n\n\n\nSummer Student Researcher to Dr Mirabel Muules\nImperial College Business School · Jun 2023 – Jul 2023\nContributed to an ongoing randomised controlled trial examining the adoption and use of smart-plug technologies and supported research design, implementation, and data collection.\n\n\nResearch Associate\nResearch Cell, Confederation of Nepalese Industries · May 2021 – May 2022\nDesigned and analysed quarterly industrial surveys covering more than 70 medium and large industries across Nepal and produced evidence-based reports to support industrial policy and government decision-making.\n\n\nConsultant, Study team\nNational Reconstruction Authority, Nepal · Sep 2021 – Nov 2021\nEvaluated the socioeconomic impacts of post-earthquake reconstruction using applied regression-based analysis and contributed to the final evaluation report for government stakeholders.\n\n\nJunior Consultant\nInternational Labour Organization, Nepal · Jun 2021 – Jul 2021\nAnalysed municipal budgets and employment programmes using regression-based methods and contributed to policy reports evaluating employment outcomes and evidence-based planning across local governments.\n\n\nResearch Intern to Prof. Ashwini Deshpande\nCentre for Economic Data & Analysis, Ashoka University · May 2020 – Aug 2020\nWorked with large-scale Indian census datasets, including data reshaping, cleaning, processing, and variable creation in R for the CEDA data portal.\n\n\nResearch Assistant to Dr Biswo Poudel\nNepal · Jun 2019 – Aug 2019\nConducted policy analysis of municipal budgets and public expenditure, and examined federal budget allocations from 2003–2018 to understand employment-generation patterns, policies, and projects."
+  },
+  {
+    "objectID": "about.html#leadership-service",
+    "href": "about.html#leadership-service",
+    "title": "About",
+    "section": "Leadership & service",
+    "text": "Leadership & service\n\nCo-convener — SoGE Early Career Research Group\nUniversity of Oxford · Dec 2023 – present\nProvided strategic input into Early Career Research programme design and delivery and supported programme dissemination in the Smith School.\n\n\nMentor — Women LEAD Nepal\nOct 2020 – present\nProvide bi-weekly coaching and mentoring to two mentees.\n\n\nTrustee — Raleigh International Trust UK\nJun 2021 – Aug 2022\nParticipated in board-level work on finance, strategy, safety, and safeguarding, and co-led the Youth Advisory Group in developing a new three-year strategy."
+  },
+  {
+    "objectID": "about.html#methods-skills",
+    "href": "about.html#methods-skills",
+    "title": "About",
+    "section": "Methods & skills",
+    "text": "Methods & skills\nStatistical analysis: R, Stata\nAdditional quantitative tools: Python, GIS\nPublic speaking: moderation of 20+ panel discussions and interviews"
+  },
+  {
+    "objectID": "publications.html",
+    "href": "publications.html",
+    "title": "Publications",
+    "section": "",
+    "text": "Brophy, A., Calverley, J., Wagle, A., Reinecke, J., & Workman, M. (2026). The strategic role of systemic transition intermediaries: A cross-sector perspective on voluntary standards for net zero. Energy Research & Social Science, 135, 104683.\n\nTopics: net zero · voluntary standards · systemic transition intermediaries\n\nWorkman, M., Brophy, A., Wagle, A., Cuthbertson, M., McCormack, L., Taricco, E., et al. (2026). Investing in Carbon Dioxide Removals: A new analytical and policy paradigm. Energy Research & Social Science, 135, 104669.\n\nTopics: carbon dioxide removal · investment · climate policy"
+  },
+  {
+    "objectID": "publications.html#peer-reviewed-journal-articles",
+    "href": "publications.html#peer-reviewed-journal-articles",
+    "title": "Publications",
+    "section": "",
+    "text": "Brophy, A., Calverley, J., Wagle, A., Reinecke, J., & Workman, M. (2026). The strategic role of systemic transition intermediaries: A cross-sector perspective on voluntary standards for net zero. Energy Research & Social Science, 135, 104683.\n\nTopics: net zero · voluntary standards · systemic transition intermediaries\n\nWorkman, M., Brophy, A., Wagle, A., Cuthbertson, M., McCormack, L., Taricco, E., et al. (2026). Investing in Carbon Dioxide Removals: A new analytical and policy paradigm. Energy Research & Social Science, 135, 104669.\n\nTopics: carbon dioxide removal · investment · climate policy"
+  },
+  {
+    "objectID": "publications.html#reports-and-policy-publications",
+    "href": "publications.html#reports-and-policy-publications",
+    "title": "Publications",
+    "section": "Reports and policy publications",
+    "text": "Reports and policy publications\nLomax, C., Smith, S. M., Bellamy, R., & Wagle, A. (2025). The UK State of Carbon Dioxide Removal. CO2RE, Smith School of Enterprise and the Environment, University of Oxford.\nWestbury, P., Arlinghaus, J., Bateman, I. J., Beerling, D., Bellamy, R., Brophy, A., et al. (2025). UKRI Strategic Priorities Fund Greenhouse Gas Removal Demonstrators (GGR-D) Programme: An Overview of Key Research Insights and Cross-cutting Findings. UKRI."
+  },
+  {
+    "objectID": "publications.html#other-outputs",
+    "href": "publications.html#other-outputs",
+    "title": "Publications",
+    "section": "Other outputs",
+    "text": "Other outputs\nThis page can be expanded with working papers, preprints, conference papers, datasets, and code as they become publicly available."
+  },
+  {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "My research sits at the intersection of environmental economics, climate policy, and applied microeconomics. I am particularly interested in empirical and policy-relevant questions around the transition to net zero, including the role of institutions, technologies, investment, and evidence in shaping climate and environmental outcomes."
+  },
+  {
+    "objectID": "research.html#green-growth-and-the-net-zero-transition",
+    "href": "research.html#green-growth-and-the-net-zero-transition",
+    "title": "Research",
+    "section": "Green growth and the net-zero transition",
+    "text": "Green growth and the net-zero transition\nMy DPhil research is titled Green Growth Strategies Towards the Net-zero Transition: Low- and Middle-Income Countries Edition. The project focuses on the economic and policy challenges involved in aligning growth and development with decarbonisation in low- and middle-income countries."
+  },
+  {
+    "objectID": "research.html#carbon-dioxide-removal",
+    "href": "research.html#carbon-dioxide-removal",
+    "title": "Research",
+    "section": "Carbon dioxide removal",
+    "text": "Carbon dioxide removal\nMy Oxford research has included work on greenhouse gas removal technologies, including evidence synthesis, uncertainty, investment pathways, and policy scenarios. This work involved reviewing evidence across more than 100 academic papers, identifying research gaps, and modelling business cases under alternative policy scenarios in R.\nThis strand of work has contributed to research publications and policy outputs on carbon dioxide removal and the wider net-zero transition."
+  },
+  {
+    "objectID": "research.html#applied-microeconomics",
+    "href": "research.html#applied-microeconomics",
+    "title": "Research",
+    "section": "Applied microeconomics",
+    "text": "Applied microeconomics\nMy wider research experience uses quantitative methods to study environmental, economic, and policy questions. Earlier work has included:\n\nhousehold-level research on the relationship between rainfall shocks and remittance inflows in Nepal;\nempirical research on industrial activity using quarterly surveys across medium and large firms in Nepal;\nregression-based evaluation of post-earthquake reconstruction;\nanalysis of municipal budgets and employment programmes;\nexperimental policy research on the adoption and use of smart-plug technologies; and\nlarge-scale census-data preparation and analysis using R."
+  },
+  {
+    "objectID": "research.html#research-approach",
+    "href": "research.html#research-approach",
+    "title": "Research",
+    "section": "Research approach",
+    "text": "Research approach\nI work across economics and interdisciplinary environmental research, combining quantitative methods with policy-focused questions. My research experience includes collaboration with economists, climate scientists, engineers, and policy researchers."
+  },
+  {
+    "objectID": "research.html#selected-research-outputs",
+    "href": "research.html#selected-research-outputs",
+    "title": "Research",
+    "section": "Selected research outputs",
+    "text": "Selected research outputs\nSee the publications page for journal articles, reports, and policy publications."
+  }
+]
