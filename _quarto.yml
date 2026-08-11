@@ -5,11 +5,13 @@ project:
 website:
   title: "Astha Wagle"
   description: "Academic website of Astha Wagle, Environment and Climate Economist."
-  site-url: "https://your-domain.example"
+  site-url: "https://asthawagle.github.io"
+
   navbar:
     pinned: true
     background: "#ffffff"
     foreground: "#1f2937"
+
     left:
       - text: "Home"
         href: index.qmd
@@ -21,10 +23,12 @@ website:
         href: about.qmd
       - text: "CV"
         href: cv.qmd
+
     right:
       - icon: envelope
         href: "#contact"
         aria-label: "Contact"
+
   page-footer:
     left: "© 2026 Astha Wagle"
     right:
@@ -39,6 +43,7 @@ format:
     smooth-scroll: true
     link-external-newwindow: true
     title-block-banner: false
+
     include-in-header:
       text: |
         <meta name="author" content="Astha Wagle">
