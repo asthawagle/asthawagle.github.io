@@ -11,14 +11,14 @@ title: ""
 
 ::: {.home-bio}
 
-I am an environment and climate economist working at the intersection of **environmental economics, climate policy, and applied microeconomics**. I am currently a DPhil researcher in Geography and Environment at the [School of Geography and the Environment, University of Oxford](https://www.geog.ox.ac.uk/). My doctoral research focuses on enabling climate-compatible growth in Nepal.
+I am an environment and climate economist working at the intersection of **environmental economics, climate policy, and applied microeconomics**. I am currently a DPhil researcher in Geography and Environment at the [School of Geography and the Environment, University of Oxford](https://www.geog.ox.ac.uk/). My doctoral research focuses on enabling climate-compatible growth in lower-middle income countries and low income countries.
 
 My broader research interests include green growth, climate policy, environmental governance, and the economic and policy challenges of the net-zero transition, particularly in developing and emerging economies.
 
 :::
 
 ::: {.profile-links}
-[Email](mailto:astha.wagle@ouce.ox.ac.uk) · [Google Scholar](https://scholar.google.com/citations?user=hYuNKE8AAAAJ) · [ORCID](https://orcid.org/0009-0004-1066-4174) · [GitHub](https://github.com/asthawagle)
+[Email](mailto:astha.wagle@ouce.ox.ac.uk) · [Google Scholar](https://scholar.google.com/citations?user=hYuNKE8AAAAJ) · [ORCID](https://orcid.org/0009-0004-1066-4174) 
 :::
 
 :::
